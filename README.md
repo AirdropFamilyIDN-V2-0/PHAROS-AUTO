@@ -38,7 +38,7 @@ Bot otomatis untuk menyelesaikan semua task Pharos Testnet — termasuk check-in
 
 ### 1. Install Python 3.10+
 Download & install dari: [https://www.python.org/downloads/](https://www.python.org/downloads/)
-
+- Register : https://testnet.pharosnetwork.xyz/experience?inviteCode=IJbHgYu509rwrYrx
 > Jangan lupa centang opsi `Add Python to PATH` saat install!
 
 ---
